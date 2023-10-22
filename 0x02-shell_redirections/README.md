@@ -1,1 +1,1 @@
-this is my readme for this project
+0x02. Shell, I/O Redirections and filters
